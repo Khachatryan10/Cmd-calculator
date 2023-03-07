@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-#include <stdlib.h>
-#include <ctype.h>
 
 char calculation_types[4][16] = {"Addition", "Divison", "Multiplication", "Subtraction"};
 
